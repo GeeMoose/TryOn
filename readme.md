@@ -13,6 +13,7 @@
     <a href="https://scholar.google.com/citations?user=7LhjCn0AAAAJ&hl=en"><strong>Deli Zhao</strong></a>
     ·
     <a href="https://hszhao.github.io/"><strong>Hengshuang Zhao</strong></a>
+    <a href="https://colab.research.google.com/drive/1o2IIK1f_D7H8LOfp3Zq6phyiiw8MfjBa#scrollTo=NWSD8g8H-YJ3">Google Colab</a>
     <br>
     <br>
         <a href="https://arxiv.org/abs/2307.09481"><img src='https://img.shields.io/badge/arXiv-AnyDoor-red' alt='Paper PDF'></a>
@@ -30,6 +31,7 @@
   </table>
 
 ## News
+* **[2023.12.20]** Google colab have correctly executed and obatined satisified results
 * **[2023.12.17]** Release train & inference & demo code, and pretrained checkpoint.
 * **[Soon]** Release the new version paper.
 * **[Soon]** Support online demo.
