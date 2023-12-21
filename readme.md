@@ -13,9 +13,9 @@
     <a href="https://scholar.google.com/citations?user=7LhjCn0AAAAJ&hl=en"><strong>Deli Zhao</strong></a>
     ·
     <a href="https://hszhao.github.io/"><strong>Hengshuang Zhao</strong></a>
-    <a href="https://colab.research.google.com/drive/1o2IIK1f_D7H8LOfp3Zq6phyiiw8MfjBa#scrollTo=NWSD8g8H-YJ3">Google Colab</a>
     <br>
     <br>
+        <a href="https://colab.research.google.com/drive/1o2IIK1f_D7H8LOfp3Zq6phyiiw8MfjBa#scrollTo=NWSD8g8H-YJ3"><img src='https://img.shields.io/badge/Google Colab-TryOn-yellow' alt='Google Colab'></a>
         <a href="https://arxiv.org/abs/2307.09481"><img src='https://img.shields.io/badge/arXiv-AnyDoor-red' alt='Paper PDF'></a>
         <a href='https://damo-vilab.github.io/AnyDoor-Page/'><img src='https://img.shields.io/badge/Project_Page-AnyDoor-green' alt='Project Page'></a>
     <br>
